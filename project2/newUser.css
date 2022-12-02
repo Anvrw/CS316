@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    border: 2px solid blue;
+}
+li a {
+    display: block;
+    background-color: #F0E7E7;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+p.large{
+    line-break: auto;
+}
+
+button{
+    color: black;
+}
